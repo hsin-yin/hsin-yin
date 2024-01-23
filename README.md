@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sandy Hsieh</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h1>Hi, I'm Sandy Hsieh</h1>
+<h3>A passionate frontend developer from Taiwan</h3>
 
 - 📫 How to reach me **hsinyin869171291@gmail.com**
 - 👨‍💻 All of my projects [Check It Out Here](https://sandy-hsieh.up.railway.app)
